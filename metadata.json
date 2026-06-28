@@ -1,0 +1,6 @@
+{
+  "name": "SmartSave Pro",
+  "description": "Aplicativo premium de poupança mensal em Kwanza (AOA) com metas, gráficos avançados, histórico detalhado e relatórios de exportação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
